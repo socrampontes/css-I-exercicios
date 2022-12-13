@@ -1,0 +1,41 @@
+*{
+padding: 10;
+margin: 10;
+}
+
+main{
+font-family: Helvetica;
+
+}
+p{
+height: auto;
+width: auto;
+}
+
+.bloco{
+color: white;
+margin:1vh;
+font-family: Arial, Helvetica, sans-serif;
+width: 17vw ;
+height: 8vh;
+}
+
+#bloco-1{
+background-color: orange;
+border: 5px solid rgb(145, 94, 0);
+}
+
+#bloco-2{
+background-color: green;
+border: 5px solid rgb(1, 100, 10);
+}
+
+#bloco-3{
+background-color: rgb(0, 71, 12);
+border: 5px dashed green;
+}
+
+#bloco-4{
+background-color: rgb(192, 0, 0);
+border: 5px dashed rgb(255, 83, 83);
+}
